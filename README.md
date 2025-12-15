@@ -16,8 +16,6 @@ Arogya Wellness Assistant is an AI-powered health consultation platform that pro
 
 The application is a full-stack health and wellness platform that provides AI-powered health guidance, personalized recommendations, and user profile management. The project is built with a Flask backend and a React (Vite) frontend, designed with a clear separation of concerns and a modular, extensible architecture.
 
-This repository is suitable for academic projects, demos, and further enhancement into a production-ready system.
-
 ---
 
 ## Key Features
