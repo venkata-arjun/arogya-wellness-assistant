@@ -10,15 +10,11 @@ Visit the live application:
 
 https://arogya-wellness-analyzer.vercel.app
 
-Or click here: [arogya-wellness-analyzer.vercel.app](https://arogya-wellness-analyzer.vercel.app)
-
 ## About
 
 Arogya Wellness Assistant is an AI-powered health consultation platform that provides personalized wellness guidance through intelligent conversation. Built with **LangChain's multi-agent framework**, it orchestrates specialized agents to deliver comprehensive advice across diet, fitness, lifestyle, and symptom analysis.
 
 The application is a full-stack health and wellness platform that provides AI-powered health guidance, personalized recommendations, and user profile management. The project is built with a Flask backend and a React (Vite) frontend, designed with a clear separation of concerns and a modular, extensible architecture.
-
-This repository is suitable for academic projects, demos, and further enhancement into a production-ready system.
 
 ---
 
